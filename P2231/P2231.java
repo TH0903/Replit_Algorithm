@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main
+public class P2231
 {
 	public static void main(String[] args) {
 		Scanner Sc = new Scanner(System.in);

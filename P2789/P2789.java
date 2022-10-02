@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main
+public class P2789
 {
 	public static void main(String[] args) {
 	    Scanner Sc = new Scanner(System.in);
